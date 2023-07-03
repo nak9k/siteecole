@@ -1,0 +1,13 @@
+Exercice
+
+Creer des cas de test pour verifier
+
+CT 01 La connexion
+
+
+CT 02 Recherche d'article
+
+
+CT 03 Afficher le panier
+
+CT 04 Paiement
